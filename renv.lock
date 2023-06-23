@@ -9,6 +9,16 @@
     ]
   },
   "Packages": {
+    "ISLR": {
+      "Package": "ISLR",
+      "Version": "1.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "bc04429c6428a790926f7053a6fa4815"
+    },
     "renv": {
       "Package": "renv",
       "Version": "0.17.3",
